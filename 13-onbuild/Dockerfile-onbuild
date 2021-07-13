@@ -1,0 +1,8 @@
+FROM       13onbuild
+ENv        APP=zelarsoft
+
+
+
+
+# docker build -t onbuildedapp -f dockerfile-onbuild .
+# docker run onbuildedapp env
