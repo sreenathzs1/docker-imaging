@@ -1,5 +1,5 @@
 FROM       13onbuild
-ENv        APP=zelarsoft
+ENV        APP=zelarsoft
 
 
 
