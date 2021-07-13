@@ -9,4 +9,5 @@ CMD             ["sleep","100" ]
 # docker run -d 14stopsignal
 # docker ps -a
 
-# catch signals "trap" google reference dd
+# catch signals "trap" google reference dds
+
